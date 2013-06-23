@@ -1,0 +1,12 @@
+{
+    "p1": {
+        "title": "Fabian Manzano",
+        "description": "Porttitor urna, sit pulvinar hac proin porta augue mattis porta proin rhoncus dis nisi et augue.",
+        "image": "11.jpg"
+    },
+    "p2": {
+        "title": "Ali Bec",
+        "description": "This is other ttis porta proin rhoncus dis nisi et augue.",
+        "image": "10.jpg"
+    }
+}

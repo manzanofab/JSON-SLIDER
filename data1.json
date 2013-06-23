@@ -1,0 +1,19 @@
+{
+    "speakers": [
+        {
+            "name": "Fabian",
+            "photo": "11.jpg",
+            "description": "informartion"
+        },
+        {
+            "name": "Ali",
+            "photo": "10.jpg",
+            "description": "Second information"
+        },
+        {
+            "name": "Edgar",
+            "photo": "12.jpg",
+            "description": "Third information"
+        }
+    ]
+}
